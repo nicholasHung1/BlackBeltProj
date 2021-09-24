@@ -1,0 +1,2 @@
+# BlackBeltProj
+The game is called Ball Platformer. The goal of the game is to reach the end station and touch the vertical bar. There are platforms that are used as paths from the starting station to the finish station. The paths are of variable length and width and are spaced apart with gaps in between platforms. The player controls the sphere by pressing on the space bar key to jump and the arrow keys to move left/right and up/down. There are 3 levels and each level a different number of platforms and variable gaps in between platforms. 
